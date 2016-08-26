@@ -1,5 +1,5 @@
 # Conway-s-game-of-life-Project-
-Project (Thabang M, Mbewe S, Martha M, Thabiso Phetla, Koketso S, William M)
+Project (Thabang M, Mbewe S, Martha Phora, Thabiso Phetla, Koketso S, William M)
 
 Project Specification:
 
